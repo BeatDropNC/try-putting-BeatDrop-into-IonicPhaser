@@ -1,0 +1,1 @@
+tutorial repo: https://github.com/proyecto26/ion-phaser#readme 
